@@ -1,0 +1,13 @@
+# Executables
+AlgoFS
+AlgoFS.exe
+
+# Object files
+*.o
+
+# OS files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
