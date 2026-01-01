@@ -78,5 +78,7 @@ This clearly demonstrates a **time–space tradeoff**, a common system design pr
 ```bash
 g++ main.cpp FileSystem.cpp SearchIndex.cpp Sorting.cpp TaskQueue.cpp -o AlgoFS
 
-##Run 
+### run
+```bash
 ./bin/algofs
+
